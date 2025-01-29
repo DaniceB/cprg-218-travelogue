@@ -5,25 +5,64 @@ body{
 .header{
     background-color:rgb(122, 187, 217);
     color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-style: dashed;
+    border-color: white;
+    border-width: 0.5rem;
 }
 
-.first-cafe{
-    background-color: rgb(174, 219, 240);
+.cafe{
+    background-color: rgb(146, 217, 241);
+    text-align: right;
+    border-radius: 15px;
 }
 
-.second-cafe{
-    background-color: rgb(174, 219, 240);
+.cafe-2{
+    background-color: rgb(146, 217, 241);
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    min-height: 100vh;
 }
 
-.third-cafe{
-    background-color: rgb(174, 219, 240);
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.img-2{
+    max-width: 100%;
+    height: auto;
+    margin-right: 15px;
+}
+
+.paris-h2{
+    font-size: 30px;
+}
+
+.paris-p{
+    font-size: 16px;
+}
+
+.cafe-3{
+    background-color: rgb(146, 217, 241);
+    text-align: right;
+    border-radius: 15px;
 }
 
 .footer{
     background-color: rgb(122, 187, 217);
     color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 15px;
 }
 
-image{
-    padding: 2%;
+.andsome.jpeg{
+    float: right;
 }
