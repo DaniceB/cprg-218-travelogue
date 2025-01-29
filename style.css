@@ -1,7 +1,29 @@
+body{
+    background-color: rgb(255, 231, 164);
+}
+
 .header{
     background-color:rgb(122, 187, 217);
+    color: white;
 }
 
 .first-cafe{
     background-color: rgb(174, 219, 240);
+}
+
+.second-cafe{
+    background-color: rgb(174, 219, 240);
+}
+
+.third-cafe{
+    background-color: rgb(174, 219, 240);
+}
+
+.footer{
+    background-color: rgb(122, 187, 217);
+    color: white;
+}
+
+image{
+    padding: 2%;
 }
