@@ -1,9 +1,11 @@
 body{background-color: rgb(255, 231, 164);}
 .header{background-color:rgb(122, 187, 217);color: white;border-radius: 20px;text-align: center;padding: 0.5rem;margin-bottom: 0.5rem;border-style: dashed;border-color: white;border-width: 0.4rem;}
 h1{font-size: 30px;}
-h2{font-size: 25px;padding: 1rem;}
+h2{font-size: 25px;padding: 1rem;color: rgb(23, 9, 81)}
 .cafe-1{background-color: rgb(146, 217, 241);text-align: left;display: flex;justify-content: left;border-top-left-radius: 15px;border-top-right-radius: 15px;padding: 2rem;}
+.cafe-2{background-color: rgb(146, 217, 241);text-align: left;display: flex;justify-content: left;padding: 2rem;}
+.cafe-3{background-color: rgb(146, 217, 241);text-align: left;display: flex;justify-content: left;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;padding: 2rem;}
 .container{display: flex;align-items: center;}
 img{max-width: 300px;height: auto;margin-left: 15px;padding-left: 0.5rem;}
-.paragraph{font-size: 16px;padding-left: 2rem;}
+.paragraph{font-size: 16px;padding-left: 2rem;color: rgb(23, 9, 81);}
 footer{background-color: rgb(122, 187, 217);color: white;text-align: center;padding: 1rem;margin-top: 1rem;border-radius: 15px;}
